@@ -1,6 +1,6 @@
 ### Hey Everyone 👋
 
-Hi. I'm Chris, a senior software engineer (+10 years) who likes to work with JavaScript(Typescript)/CSS/HTML/Web3/Python/C#/C++.
+Hi. I'm a senior software engineer (+10 years) who likes to work with JavaScript(Typescript)/CSS/HTML/Web3/Python/C#/C++.
 
 - Experienced Senior Software Engineer with over 10 years of expertise in both frontend and backend development. My work spans building high-performance web and mobile applications, specializing in frameworks modern JavaScript frameworks. With a passion for AI and cutting-edge technologies, I continuously strive for innovation and optimization in every project.
 - Web full-stack (both front-end & back-end) developer (TypeScript/JavaScript, React.js/Next.js/Preact/Gatsby, React Native, Vue.js/Nuxt.js, Electron.js, Eleventy, Node.js, PWA, GraphQL, TDD)
@@ -16,7 +16,6 @@ These days I'm passionate about AI and blockchain technologies and mainly focusi
 - 🌱 I'm currently focusing on blockchain and AI technologies.
 - 🤔 I'm looking to help with building Dapp/DeFi/NFT/DAO and AI products.
 - 💬 Ask me anything about best practices in modern web development, web performance optimization & UI/UX improvement, and blockchain Smart Contract/Dapp/DeFi/NFT/DAO development.
-- 📫 How to reach me: chrismetzner0910@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Dev motto: `First do it, then do it right, then do it better.`
 
